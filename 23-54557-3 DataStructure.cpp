@@ -4,7 +4,7 @@ using namespace std;
 
 const int MAX_APPLICANTS = 25;
 const int TOTAL_CATEGORIES = 4;
-
+// new nafees branch created
 // Structure for visa type
 struct VisaType {
     string name;
